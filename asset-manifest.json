@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EasyBuy/static/css/main.fd50d6bb.css",
+    "main.js": "/EasyBuy/static/js/main.ea17508e.js",
+    "static/js/496.b126332a.chunk.js": "/EasyBuy/static/js/496.b126332a.chunk.js",
+    "static/media/heroImage.jpg": "/EasyBuy/static/media/heroImage.ee7accd78e24ea4707f6.jpg",
+    "static/media/Logo.png": "/EasyBuy/static/media/Logo.addf1c5c4f2e7443c2c6.png",
+    "index.html": "/EasyBuy/index.html",
+    "main.fd50d6bb.css.map": "/EasyBuy/static/css/main.fd50d6bb.css.map",
+    "main.ea17508e.js.map": "/EasyBuy/static/js/main.ea17508e.js.map",
+    "496.b126332a.chunk.js.map": "/EasyBuy/static/js/496.b126332a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd50d6bb.css",
+    "static/js/main.ea17508e.js"
+  ]
+}
